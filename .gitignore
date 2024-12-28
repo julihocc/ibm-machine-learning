@@ -63,6 +63,7 @@ dmypy.json
 *.data
 *.npy
 *.npz
+*.zip
 
 # Logs
 *.log
